@@ -37,6 +37,9 @@ class Board:
         """Loads the pieces on the map"""
         pass
     
+    def GetMapSize (self):
+        if _map.count
+        
     def CalculateMoveCosts(self, fromLoc):
         """ """
         moveCost = 0

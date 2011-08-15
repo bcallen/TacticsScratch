@@ -1,0 +1,2 @@
+
+Consider bisect -> insort for turns.
